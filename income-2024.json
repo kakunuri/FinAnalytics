@@ -1,0 +1,33 @@
+{
+    "company": "abc",
+    "statement": "income",
+    "Year": 2024,
+    "Revenue": {
+      "Total Revenue": 22973.18
+    },
+    "Cost of Sales": {
+      "Raw Materials": 1500,
+      "Operating Expenses": {
+        "Advertising": 9657.05,
+        "Bank Fees": 30,
+        "Cleaning": 110,
+        "Consulting & Accounting": 87,
+        "Entertainment": 1553.60,
+        "Freight & Courier": 105.5,
+        "General Expenses": 166.28,
+        "Light, Power, Heating": 335.82,
+        "Motor Vehicle Expenses": 654.36,
+        "Office Expenses": 812.59,
+        "Printing & Stationery": 94.41,
+        "Rent": 3273.66,
+        "Incorporation fee": 1896.70,
+        "Telephone & Internet": 134.75,
+        "Travel - National": 255.8
+      }
+    },
+    "Pre-Tax Income": 2305.66,
+    "Taxable Income": 2305.66,
+    "Taxes": 576.42,
+    "Net Income": 1729.24
+  }
+  

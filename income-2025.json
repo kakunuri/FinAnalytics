@@ -1,0 +1,33 @@
+{
+    "company": "abc",
+    "statement": "income",
+    "Year": 2025,
+    "Revenue": {
+      "Total Revenue": 24811.03
+    },
+    "Cost of Sales": {
+      "Raw Materials": 1620,
+      "Operating Expenses": {
+        "Advertising": 20333.04,
+        "Bank Fees": 32.1,
+        "Cleaning": 117.7,
+        "Consulting & Accounting": 93.09,
+        "Entertainment": 1662.35,
+        "Freight & Courier": 112.89,
+        "General Expenses": 177.92,
+        "Light, Power, Heating": 359.33,
+        "Motor Vehicle Expenses": 700.17,
+        "Office Expenses": 869.47,
+        "Printing & Stationery": 101.02,
+        "Rent": 3502.82,
+        "Incorporation fee": 2029.47,
+        "Telephone & Internet": 144.18,
+        "Travel - National": 273.71
+      }
+    },
+    "Pre-Tax Income": 2681.77,
+    "Taxable Income": 2681.77,
+    "Taxes": 670.44,
+    "Net Income": 2011.33
+  }
+  
